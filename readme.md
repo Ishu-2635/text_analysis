@@ -45,4 +45,4 @@ Extracts the following metrics for each article:
 
 ## 📊 Output
 - Text files for each article in the `scraped100/` directory
-- Metrics printed in console
+- Metrics printed in console and in out data structure excel file
